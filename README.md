@@ -6,8 +6,4 @@ Why Workers Quit? Attrition in an Organization.
 ## [Attrition Data Analysis (Power BI)]()
 
 ## [Notebook: Hypothesis Test and Machine Learning (Python)]()
-<<<<<<< HEAD
-=======
 
-Working in Progress
->>>>>>> 36e05520fa5c8de5fe43b7fdcf5bdb315df35827
