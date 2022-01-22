@@ -1,9 +1,8 @@
 # HR_Analytics
+
 Why Workers Quit? Attrition in an Organization.
 
-## [Gender Data Analysis (Power BI)](https://github.com/rafaelpavan95/HR_Analytics/blob/main/PowerBI/gender_analysis.pdf)
+- There is a salary GAP between women and men?
+- Which features are more relevant to understand why workers quit?
 
-## [Attrition Data Analysis (Power BI)]()
-
-## [Notebook: Hypothesis Test and Machine Learning (Python/PySpark)]()
-
+Project for skill assessment of Pyspark SQL, MLlib and plotly.
